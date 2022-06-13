@@ -1,4 +1,4 @@
 # welcome to threecat-up' site!
-# Welcome to BookFinder
-&emsp;On this page, you can comment on your opinions on the bookfinder recommendation system.
-&emsp;<br>My QQ:2251335663</br>
+CSDN:https://blog.csdn.net/qq_43919400?spm=1000.2115.3001.5343
+
+E-mail:yang2251335663@qq.com
