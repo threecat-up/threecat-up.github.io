@@ -1,4 +1,7 @@
-# welcome to threecat-up' site!
-CSDN:<https://blog.csdn.net/qq_43919400?spm=1000.2115.3001.5343>
+### Hi I'm threecat 👋
 
-E-mail:<yang2251335663@qq.com>
+- 🌱 Currently engaged in GIS related work
+- 🤔 Maintain curiosity about the unknown
+- 🌆 Wandering Thoughts
+
+CSDN:<https://blog.csdn.net/qq_43919400?spm=1000.2115.3001.5343>
